@@ -1,13 +1,11 @@
 # The Blue Owls Solutions — Azure Data Engineer Take-Home Assessment
 
-**Mid-Level Role — Confidential**
-
 | | |
 |---|---|
 | **Tech Stack** | Python, PySpark, SQL, Jupyter Lab |
 | **Deliverable** | Public GitHub repository |
 | **Data Source** | Blue Owls Data API (credentials provided separately) |
-| **Expected Time** | 5–8 hours |
+| **Expected Time** | 8-12 hours |
 
 ---
 
