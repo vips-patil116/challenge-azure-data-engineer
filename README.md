@@ -1,4 +1,4 @@
-#Assessment Submission
+# Assessment Submission
 
 This submission implements the take-home as a notebook-first PySpark pipeline in [submission/blue_owls_assessment.ipynb](submission/blue_owls_assessment.ipynb), with SQL deliverables in [submission/sql/query_1.sql](submission/sql/query_1.sql) and [submission/sql/query_2.sql](submission/sql/query_2.sql).
 
